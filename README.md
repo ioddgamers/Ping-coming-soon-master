@@ -49,5 +49,14 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+## Used
+- HTML
+- CSS
+- JavaScript 
+
+## Solution Page
+https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da/hub?share=true
+
 ## Live Page
+https://ioddgamers.github.io/Ping-coming-soon-master/
 
